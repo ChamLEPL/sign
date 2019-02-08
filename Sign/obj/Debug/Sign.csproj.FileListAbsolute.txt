@@ -1,0 +1,10 @@
+F:\проекты\Sign\Sign\bin\Debug\Sign.exe.config
+F:\проекты\Sign\Sign\bin\Debug\Sign.exe
+F:\проекты\Sign\Sign\bin\Debug\Sign.pdb
+F:\проекты\Sign\Sign\obj\Debug\Sign.csprojResolveAssemblyReference.cache
+F:\проекты\Sign\Sign\obj\Debug\Sign.Properties.Resources.resources
+F:\проекты\Sign\Sign\obj\Debug\Sign.csproj.GenerateResource.cache
+F:\проекты\Sign\Sign\obj\Debug\Sign.csproj.CoreCompileInputs.cache
+F:\проекты\Sign\Sign\obj\Debug\Sign.exe
+F:\проекты\Sign\Sign\obj\Debug\Sign.pdb
+F:\проекты\Sign\Sign\obj\Debug\Sign.Form1.resources
